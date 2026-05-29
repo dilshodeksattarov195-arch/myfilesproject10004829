@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsarse",
+        "uuid": 5229807,
+        "checksum": "94wz6"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
